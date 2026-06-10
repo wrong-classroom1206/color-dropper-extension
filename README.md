@@ -8,7 +8,7 @@ Built as a final project for [CS50x](https://cs50.harvard.edu/x/) — Harvard Un
 
 ## Video Demo
 
-> [Add your YouTube/CS50 submission link here]
+> [https://youtu.be/07MqXnjU8dM]
 
 ---
 
