@@ -8,7 +8,8 @@ Built as a final project for [CS50x](https://cs50.harvard.edu/x/) — Harvard Un
 
 ## Video Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/07MqXnjU8dM" frameborder="0" allowfullscreen></iframe>   
+<iframe width="560" height="315" src="https://www.youtube.com/embed/07MqXnjU8dM" frameborder="0" allowfullscreen></iframe> 
+
 ## Description
 
 Color Dropper is a browser extension that activates Chrome's native **EyeDropper API** to sample any color visible on your screen. Click the extension icon, hit **Pick a Color**, then click anywhere on the page — the exact pixel color is captured and displayed as both a HEX code and an RGB value, ready to copy with one click.
