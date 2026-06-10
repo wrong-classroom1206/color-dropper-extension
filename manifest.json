@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Color Dropper",
+  "version": "1.0",
+  "description": "Pick pixel-perfect HEX and RGB color codes from any webpage.",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage",
+    "clipboardWrite"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "48": "icon.png"
+    },
+    "default_title": "Color Dropper"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["icon.png"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
