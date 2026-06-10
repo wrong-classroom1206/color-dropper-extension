@@ -8,7 +8,10 @@ Built as a final project for [CS50x](https://cs50.harvard.edu/x/) — Harvard Un
 
 ## Video Demo
 
-> [https://youtu.be/07MqXnjU8dM]
+<video width="640" controls>
+  <source src="https://raw.githubusercontent.com/wrong-classroom1206/color-dropper-extension/master/color-dropper.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>   
 
 ---
 
